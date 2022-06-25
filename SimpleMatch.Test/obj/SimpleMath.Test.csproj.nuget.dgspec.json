@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMatch.Test\\SimpleMath.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMatch.Test\\SimpleMath.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMatch.Test\\SimpleMath.Test.csproj",
+        "projectName": "SimpleMath.Test",
+        "projectPath": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMatch.Test\\SimpleMath.Test.csproj",
+        "packagesPath": "C:\\Users\\ashle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMatch.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ashle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\SimpleMath.csproj": {
+                "projectPath": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\SimpleMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\SimpleMath.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\SimpleMath.csproj",
+        "projectName": "SimpleMath",
+        "projectPath": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\SimpleMath.csproj",
+        "packagesPath": "C:\\Users\\ashle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashle\\OneDrive\\Desktop\\Katas\\simple-tdd-template-C-Sharp\\SimpleMath\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ashle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

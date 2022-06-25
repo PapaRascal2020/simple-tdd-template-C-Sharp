@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMath", "SimpleMath\SimpleMath.csproj", "{B8543D9D-FDE1-473A-B7E6-56F375476B76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMath.Test", "SimpleMatch.Test\SimpleMath.Test.csproj", "{8565FC05-1999-4FE6-B894-5B644BC2054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		TDD|Any CPU = TDD|Any CPU
+		TDD|x64 = TDD|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Debug|x64.ActiveCfg = Debug|x64
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Debug|x64.Build.0 = Debug|x64
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Release|x64.ActiveCfg = Release|x64
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.Release|x64.Build.0 = Release|x64
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.TDD|Any CPU.ActiveCfg = TDD|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.TDD|Any CPU.Build.0 = TDD|Any CPU
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.TDD|x64.ActiveCfg = TDD|x64
+		{B8543D9D-FDE1-473A-B7E6-56F375476B76}.TDD|x64.Build.0 = TDD|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Debug|x64.ActiveCfg = Debug|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Debug|x64.Build.0 = Debug|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Release|x64.ActiveCfg = Release|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.Release|x64.Build.0 = Release|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.TDD|Any CPU.ActiveCfg = TDD|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.TDD|Any CPU.Build.0 = TDD|Any CPU
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.TDD|x64.ActiveCfg = TDD|x64
+		{8565FC05-1999-4FE6-B894-5B644BC2054C}.TDD|x64.Build.0 = TDD|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {643D9E81-3AF1-4EB4-B13C-46FAEA049DDD}
+	EndGlobalSection
+EndGlobal

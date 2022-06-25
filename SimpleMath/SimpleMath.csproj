@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>..\..\artifacts\bin\$(Configuration)\$(Platform)</OutputPath>
+    <Configurations>Debug;Release;TDD</Configurations>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  
+
+</Project>

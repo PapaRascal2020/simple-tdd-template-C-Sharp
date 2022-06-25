@@ -1,0 +1,12 @@
+C:\Users\ashle\OneDrive\Desktop\artifacts\bin\Debug\AnyCPU\SimpleMath.deps.json
+C:\Users\ashle\OneDrive\Desktop\artifacts\bin\Debug\AnyCPU\SimpleMath.dll
+C:\Users\ashle\OneDrive\Desktop\artifacts\bin\Debug\AnyCPU\ref\SimpleMath.dll
+C:\Users\ashle\OneDrive\Desktop\artifacts\bin\Debug\AnyCPU\SimpleMath.pdb
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.csproj.AssemblyReference.cache
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.AssemblyInfoInputs.cache
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.AssemblyInfo.cs
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.dll
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\ref\SimpleMath.dll
+C:\Users\ashle\OneDrive\Desktop\C#\SimpleMath\obj\Debug\SimpleMath.pdb

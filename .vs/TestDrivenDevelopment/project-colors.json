@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8543d9d-fde1-473a-b7e6-56f375476b76": {
+      "ProjectGuid": "b8543d9d-fde1-473a-b7e6-56f375476b76",
+      "DisplayName": "SimpleMath",
+      "ColorIndex": 0
+    },
+    "8565fc05-1999-4fe6-b894-5b644bc2054c": {
+      "ProjectGuid": "8565fc05-1999-4fe6-b894-5b644bc2054c",
+      "DisplayName": "SimpleMath.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
